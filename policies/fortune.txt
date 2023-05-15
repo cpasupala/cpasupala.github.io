@@ -1,0 +1,2 @@
+The fortune app does not read or save any private information of the user.
+It is a simple, self-containing app that does not require any access to any peripherals of the device using the app.
